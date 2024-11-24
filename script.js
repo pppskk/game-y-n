@@ -5,7 +5,7 @@ function changeImage(newSrc) {
 }
 
 function resetImage() {
-  document.getElementById("mainImage").src = "doyou.png";
+  document.getElementById("mainImage").src = "loveu.png";
 }
 // จำนวนปุ่มไม่ลิมิตที่เท่าไหร่ใส่ตรงนี้
 function handleNoClick() {
